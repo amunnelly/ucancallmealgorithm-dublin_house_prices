@@ -1,0 +1,58 @@
+{
+	"geometry": {
+		"location_type": "RANGE_INTERPOLATED",
+		"bounds": {
+			"northeast": {
+				"lat": 53.3415255,
+				"lng": -6.2548933
+			},
+			"southwest": {
+				"lat": 53.3415219,
+				"lng": -6.254911099999999
+			}
+		},
+		"viewport": {
+			"northeast": {
+				"lat": 53.3428726802915,
+				"lng": -6.253553219708498
+			},
+			"southwest": {
+				"lat": 53.3401747197085,
+				"lng": -6.256251180291502
+			}
+		},
+		"location": {
+			"lat": 53.3415219,
+			"lng": -6.2548933
+		}
+	},
+	"formatted_address": "2 Kildare St, Dublin, Ireland",
+	"place_id": "Eh0yIEtpbGRhcmUgU3QsIER1YmxpbiwgSXJlbGFuZA",
+	"address_components": [{
+		"long_name": "2",
+		"types": ["street_number"],
+		"short_name": "2"
+	}, {
+		"long_name": "Kildare Street",
+		"types": ["route"],
+		"short_name": "Kildare St"
+	}, {
+		"long_name": "Dublin",
+		"types": ["locality", "political"],
+		"short_name": "Dublin"
+	}, {
+		"long_name": "Dublin City",
+		"types": ["administrative_area_level_2", "political"],
+		"short_name": "Dublin City"
+	}, {
+		"long_name": "County Dublin",
+		"types": ["administrative_area_level_1", "political"],
+		"short_name": "County Dublin"
+	}, {
+		"long_name": "Ireland",
+		"types": ["country", "political"],
+		"short_name": "IE"
+	}],
+	"partial_match": true,
+	"types": ["street_address"]
+}
